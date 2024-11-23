@@ -1,1 +1,2 @@
-# arithmetic-nanoGPT
+# Arithmetic-GPT
+## Coming soon...
